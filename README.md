@@ -4,7 +4,12 @@ Tom is in the audit of the tabulated results for U.S. Congressional precinct in 
 
 
 Election-Audit Results
+
+
 ![alt text](results.png)
+
+
+
 •	369,711 has been casted in this congressional election
 •	Jefferson gets 38,855, accounting for 10.5% in total
 •	Denver gets 306,055, accounting for 82.8% in total
